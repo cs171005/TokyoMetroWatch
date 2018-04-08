@@ -1,0 +1,7 @@
+project.pbxproj
+result20160721151613.csv
+*.csv
+*.xcworkspacedata
+*.xcuserstate
+*.xcscheme
+*.json
